@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.bbh-bogle-regular {
+  font-family: "BBH Bogle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.playwrite-au-sa-guides-regular {
+  font-family: "Playwrite AU SA Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+nav ul li{
+    float:right;
+    margin: 10px;
+    padding: 10px;
+    background-color: greenyellow;
+    list-style: none;
+}
+nav ul li a {
+    text-decoration: none;
+}
+nav ul li a:hover{
+background-color: black;
+color: white;
+}
+#s1 {
+    height: 200px;
+    background-color: blue;
+    margin: 7px 0px;
+}
+#s1 *{
+    text-align: center; color: white;
+    padding: 10px 0px ;
+}
+#s1 h1 {
+    font-size: 40px;
+    font-family: "BBH Bogle", sans-serif;
+}
+#s1 p{
+    font-size: 20px;
+}
+#s2{
+    height: 400px;
+}
+
+
+#s2 h2 {
+    text-align: center;
+}
+.c1{
+    float: left;
+    border-radius: 10px;
+}
+.c1 *{
+    margin: 20px 0px ; text-align: center;
+}
+#H{
+    background-color: rgb(194, 218, 18);
+    height: 50px;
+    width: 200px;
+    margin:0px auto;
+    border-radius: 10px;
+}
+#F{
+    margin:0px 80px ;
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+h3{
+    text-align: center;
+    color: aliceblue;
+}
+ ul li{
+    text-align: center; background-color: aliceblue;width: 150px;
+    float: right; 
+
+}
+footer ul li{
+margin: 0px 10px;
+}
+#U{
+    margin-left: 320px;
+}
+.D{
+    margin: 0px 40%;
+}
+#N p{
+    font-size: 30px;
+}
+#M{
+    font-size: 40px;
+}
+#N h2{
+     font-family: "Playwrite AU SA Guides", cursive;
+}
+.playwrite-au-sa-guides-regular {
+  font-family: "Playwrite AU SA Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+#Q{
+    font-family: "Playwrite AU SA Guides", cursive;
+}
